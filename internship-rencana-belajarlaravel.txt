@@ -1,4 +1,0 @@
-RENCANA BELAJAR LARAVEL
-- Cara Install sampai mulai mengerjakan project
-- Mempelajari PHP
-- Belajar cara membuat CRUD
