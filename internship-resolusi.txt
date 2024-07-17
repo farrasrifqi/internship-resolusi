@@ -3,4 +3,4 @@ INTERNSHIP RESOLUSI
 - Mempelajari dari playlist GIT & GITHUB
 - Membuat laporan ke mentor
 - Mengerjakan project selanjutnya dari mentor
-- Mempelajari new Knowledge
+- Mempelajari lebih banyak bahasa pemrograman
