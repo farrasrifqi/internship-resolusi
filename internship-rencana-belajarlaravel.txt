@@ -1,0 +1,3 @@
+RENCANA BELAJAR LARAVEL
+- Mempelajari PHP
+- Belajar cara membuat CRUD
