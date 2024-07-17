@@ -1,0 +1,8 @@
+MEMAHAMI KEGUNAAN GIT DAN GITHUB
+
+Nonton videonya Web Progamming Unpas :
+
+Hari 1
+- APA ITU GIT & GITHUB = Menjelaskan apa itu Version Control System (VCS), Git, dan GitHub, dan juga menjelaskan istilahnya repo, commit, hash, checkout, branch, merge, remote, clone, push, dan pull.
+- BEKERJA DENGAN GITHUB =  Praktek : membuat repository | membuat file berupa txt di dalam repository | mengisi list di dalam file lalu di commit | edit list lalu di commit lagi | melihat progres commit.
+-  GIT BRANCH = Membuat sebuah branch lalu di gabungkan ke master branch
