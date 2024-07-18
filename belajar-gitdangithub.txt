@@ -7,3 +7,6 @@ Hari 1
 - BEKERJA DENGAN GITHUB =  Praktek : membuat repository | membuat file berupa txt di dalam repository | mengisi list di dalam file lalu di commit | edit list lalu di commit lagi | melihat progres commit.
 - GIT BRANCH = Membuat sebuah branch lalu di gabungkan ke master branch.
 - Plan 1
+
+Hari 2
+- FORK
